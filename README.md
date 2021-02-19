@@ -18,6 +18,8 @@ methodology based on peer-learning and projects.
   <img align="left" alt="MatriMariem" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br/>
+<br/>
 ***
 
 ### Languages and Tools that I have been working with / studying:
