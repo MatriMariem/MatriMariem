@@ -32,7 +32,7 @@ methodology based on peer-learning and projects.
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 <a href="https://github.com/MatriMariem/AirBnB_clone_v4/blob/master/api/v1/app.py">
-  <img align="left" alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />
+  <img align="left" alt="JS" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />
 </a>
 <a href="https://github.com/MatriMariem/holberton-headphones">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -44,7 +44,7 @@ methodology based on peer-learning and projects.
   <img align="left" alt="JS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />
 </a>
 <a href="https://github.com/MatriMariem/holbertonschool-web_front_end">
-  <img align="left" alt="JS" width="50px" src="https://www.phpdeveloperszone.com/uploaded_images/VN15937561CA21309174.jpg" />
+  <img align="left" alt="JS" width="50px" height="50px" src="https://www.phpdeveloperszone.com/uploaded_images/VN15937561CA21309174.jpg" />
 </a>
 <a href="https://github.com/MatriMariem/holbertonschool-web_back_end">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -59,13 +59,13 @@ methodology based on peer-learning and projects.
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
 <a href="https://github.com/MatriMariem/holbertonschool-web_back_end/tree/master/0x0C-MySQL_Advanced">
-  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="JS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </a>
 <a href="https://github.com/MatriMariem/holbertonschool-web_back_end/tree/master/0x0D-NoSQL">
-  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <img align="left" alt="JS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a>
 <a href="https://github.com/MatriMariem/holbertonschool-zero_day">
-  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="JS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
 <a href="https://github.com/MatriMariem/holberton-system_engineering-devops">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
