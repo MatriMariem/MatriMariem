@@ -12,15 +12,15 @@ methodology based on peer-learning and projects.
 ### Connect with me:
 
 <a href="https://twitter.com/MatriMariem">
-  <img align="left" alt="MatriMariem | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="MatriMariem | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mariem-matri-249620178/">
-  <img align="left" alt="MatriMariem" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="MatriMariem" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br/>
 <br/>
-***
+
 
 ### Languages and Tools that I have been working with / studying:
 
@@ -47,7 +47,7 @@ methodology based on peer-learning and projects.
   <img align="left" alt="JS" width="50px" src="https://www.phpdeveloperszone.com/uploaded_images/VN15937561CA21309174.jpg" />
 </a>
 <a href="https://github.com/MatriMariem/holbertonschool-web_back_end">
-  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.pngg" />
+  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 <a href="https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/xml-scripts.js">
   <img align="left" alt="JS" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
